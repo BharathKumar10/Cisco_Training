@@ -1,0 +1,2 @@
+C:\Program Files\Zulu\zulu-11;11;0;7;64;true;1586505068000
+C:\Program Files\Zulu\zulu-11-jre;11;0;7;64;false;1586505346000
